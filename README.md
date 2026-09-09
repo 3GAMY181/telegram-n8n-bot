@@ -37,3 +37,5 @@
 ## 🔐 الأمان والخصوصية (Security)
 
 المشروع لا يحتوي على أي مفاتيح تشغيل أو بيانات شخصية. يتم إدارة جميع المفاتيح بشكل آمن عبر بيئة تشغيل n8n.
+
+<img width="1913" height="900" alt="image" src="https://github.com/user-attachments/assets/9540b6c8-b59b-4c14-bd7a-683f52973b93" />
